@@ -13,5 +13,5 @@ function installMe() {
 }
 
 window.addEventListener('load', function init(evt) {
-  document.getElementById('installApp').addEventListener('click', installApp);
+  document.getElementById('installApp').addEventListener('click', installMe);
 });
