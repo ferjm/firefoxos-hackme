@@ -1,7 +1,7 @@
 {
   "name": "HackMe",
   "description": "Hack me app",
-  "launch_path": "firefoxos-hackme/index.html",
+  "launch_path": "index.html",
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
